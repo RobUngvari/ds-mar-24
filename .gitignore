@@ -1,5 +1,5 @@
 # Virtual environment directories
-venv/
+catboost_info/
 env/
 virtualenv/
 .venv/
